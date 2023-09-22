@@ -4,6 +4,6 @@
 - 🧑‍🏫 I did my minor in teaching and have experience with teaching at Dutch high school level (bovenbouw havo & VWO).
 - 👀 I’m interested in software technologies, security and functional programming.
 - 🌱 I’m currently learning all kinds of fun stuff about CS, but I am mostly interested in writing programs in Haskell.
-- 📫 You can reach me through my email: [julianvs0501@gmail.com](mailto:julianvs0501+ghrm@gmail.com).
+- 📫 You can reach me through my email: [julian@julianvansanten.nl](mailto:julian@julianvansanten.nl).
 - 📬 Alternatively, you can use my University email: [j.vansanten@student.utwente.nl](mailto:j.vansanten@student.utwente.nl).
 - 💬 I am also on Mastodon: [@julianvansanten@mastodon.nl](https://mastodon.nl/@julianvansanten).
