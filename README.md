@@ -6,4 +6,4 @@
 - 👀 I’m interested in software technologies, security, and functional programming.
 - 📫 You can reach me through my email: [julian@julianvansanten.nl](mailto:julian+ghrm@julianvansanten.nl).
 - 📬 Alternatively, you can use my University email: [j.vansanten@student.utwente.nl](mailto:j.vansanten@student.utwente.nl).
-- 💬 I am also on Mastodon: [@julianvansanten@mastodon.nl](https://mastodon.nl/@julianvansanten).
+- 🔗 See my [profile on LinkedIn](https://linkedin.com/in/julianvansanten)
